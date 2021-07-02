@@ -1,0 +1,13 @@
+package br.com.pcdoc.clinicapcdocapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ClinicaPcdocApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ClinicaPcdocApiApplication.class, args);
+	}
+
+}
